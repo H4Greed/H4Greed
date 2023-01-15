@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @H4Greed
-- 👀 I'm interested in Python
+- 👀 I'm interested in Java
 - 🌱 I'm currently learning the basics of coding
 - 📫 How to contact me rtn573@gmail.com
 
